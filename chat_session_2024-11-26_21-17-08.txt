@@ -1,0 +1,15 @@
+Chatbot: How much is 15 * 15?
+Chatbot: How much is 9 * 18?
+Chatbot: How much is 4 - 8?
+Chatbot: How much is 11 - 13?
+Chatbot: How much is 2 + 18?
+Chatbot: How much is 12 - 15?
+Chatbot: How much is 18 * 8?
+Chatbot: How much is 11 - 9?
+Chatbot: How much is 1 - 3?
+Chatbot: Please enter a valid number.
+Chatbot: Please enter a valid number.
+Chatbot: Please enter a valid number.
+Chatbot: Please enter a valid number.
+Chatbot: Please enter a valid number.
+Chatbot: Please enter a valid number.
